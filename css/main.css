@@ -3,7 +3,8 @@ h1 {
   margin-left: 5px;
   font-size: 1.5rem;
 }
-.hero-header {
+
+/*.hero-header {
   flex: 0 0 auto;
   background-color: #fff;
 }
@@ -11,7 +12,7 @@ h1 {
   flex: 1 1 auto;
   position: relative;/* need this to position inner content */
   overflow-y: auto;
-}
+}*/
 
 .hero.is-primary .header-item>a:not(.button)  {
   opacity: 1;
