@@ -1,4 +1,9 @@
 h1 {
   font-family: 'Rock Salt', cursive, serif;
   margin-left: 5px;
+  font-size: 1.5rem;
+}
+
+.hero.is-primary .header-item>a:not(.button)  {
+  opacity: 1;
 }
