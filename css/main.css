@@ -3,6 +3,10 @@ h1 {
   margin-left: 5px;
   font-size: 1.5rem;
 }
+.hero-header {
+  flex: 0 0 auto;
+  background-color: #fff;
+}
 
 .hero.is-primary .header-item>a:not(.button)  {
   opacity: 1;
